@@ -1,8 +1,62 @@
 <h1>🐍 Mini Projeto 01 — Meu Perfil em Python </h1>
 
-<h4>🎯 Objetivo </h4>
+<h3>Meu primeiro projeto desenvolvido durante meus estudos de Python.</h3>
 
 <p>
-Criar um pequeno programa de apresentação pessoal executado no terminal. <br>
-A ideia é que seja o  primeiro projeto oficial de Python no GitHub.
+O programa apresenta algumas informações sobre meu perfil profissional e meus objetivos de aprendizado, utilizando uma saída organizada no terminal.
+<br> 
+Projeto desenvolvido durante meus primeiros estudos de Python.</p>
+
+<h3>📌 O que o projeto faz</h3>
+
+<p> O programa exibe no terminal:
+<br>
+Meu nome;
+Minha área de formação;
+A linguagem de programação que estou estudando;
+Meu objetivo profissional;
+Os conteúdos que estou estudando atualmente;
+Uma mensagem indicando que este é meu primeiro projeto em Python.
+<br>
+Também utilizei caracteres de repetição para criar uma apresentação mais organizada no terminal.
 </p>
+
+<h3>📚 O que aprendi</h3>
+
+<p> Durante o desenvolvimento deste projeto, pratiquei:
+
+Como utilizar print() para exibir informações no terminal;
+Como trabalhar com textos (strings);
+Como utilizar f-strings;
+Como centralizar um texto utilizando ^;
+Como repetir uma string utilizando *;
+Como utilizar \n para criar quebras de linha;
+Como organizar a saída de um programa para melhorar sua apresentação.
+</p>
+
+<h3>🖥️ Resultado no terminal</h3>
+
+<h3>💻 Código</h3>
+<p>O projeto foi desenvolvido utilizando Python e possui uma estrutura simples, focada na prática dos primeiros conceitos aprendidos.</p>
+
+```python
+print("="*66)
+print(f'{"MEU PERFIL EM PYTHON":^66}')
+print("="*66 + "\n")
+print("Nome: Mariana")
+print("Área: Análise e Desenvolvimento de sistemas")
+print("Linguagem atual: Python")
+print("Objetivo: Tornar-me uma desenvolvedora Python \n")
+print("Atualmente estudando:")
+print("- Python")
+print("- Lógica de programação \n")
+print("Este é meu primeiro projeto em Python! \n")
+print("="*66)
+ ```
+
+ <h3>📈 Minha evolução</h3>
+ <p>Este repositório faz parte da minha jornada de aprendizado em Python.<br>
+A ideia é registrar meus estudos, projetos e evolução desde os primeiros conceitos até projetos mais completos.</p>
+
+ <h3>👩‍💻 Autora</h3>
+ <p> Estudante de Análise e Desenvolvimento de Sistemas, atualmente iniciando meus estudos em Python e lógica de programação, com o objetivo de me desenvolver profissionalmente na área de tecnologia.</p>
